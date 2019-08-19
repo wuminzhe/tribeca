@@ -81,9 +81,9 @@ Navigate to the Web UI as described in the install process. You should see a scr
   * `PingPong` - 与“TOP”相同，但始终遵循上次出售或购买的“size”计算出的“width”。
 
 * `fv` - Sets the fair value calculation mode
-* `BBO` - `FV = ([best bid price] + [best ask price])/2.0`
+  * `BBO` - `FV = ([best bid price] + [best ask price])/2.0`
   
-* `wBBO` - `FV = ([best bid price]*[best ask size] + [best ask price]*[best bid size])/([best ask size] + [best bid size])`
+  * `wBBO` - `FV = ([best bid price]*[best ask size] + [best ask price]*[best bid size])/([best ask size] + [best bid size])`
   
 * `apMode`
 
